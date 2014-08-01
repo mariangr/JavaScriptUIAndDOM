@@ -1,0 +1,4 @@
+D:\Projects\JavaScript UI & DOM\1.03 ChangeBachGroundColor\1.03 ChangeBachGroundColor\bin\1.03 ChangeBachGroundColor.dll
+D:\Projects\JavaScript UI & DOM\1.03 ChangeBachGroundColor\1.03 ChangeBachGroundColor\bin\1.03 ChangeBachGroundColor.pdb
+D:\Projects\JavaScript UI & DOM\1.03 ChangeBachGroundColor\1.03 ChangeBachGroundColor\obj\Debug\1.03 ChangeBachGroundColor.dll
+D:\Projects\JavaScript UI & DOM\1.03 ChangeBachGroundColor\1.03 ChangeBachGroundColor\obj\Debug\1.03 ChangeBachGroundColor.pdb

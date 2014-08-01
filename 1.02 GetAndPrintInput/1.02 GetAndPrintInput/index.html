@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="inputdiv">
+            <div class="input">
+            <label for="tb-first">Value: </label>
+            <input type="text" id="Value"/>
+
+            </div>	
+            <div id="inputbutton">
+            <a href="#" onclick="Print()">Print input value</a>
+            </div>
+        </div>
+
+    <script>
+        function Print() {
+            var item = document.getElementById("Value").value;
+            document.write(item);
+        }
+        </script>
+</body>
+</html>

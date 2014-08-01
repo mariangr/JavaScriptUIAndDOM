@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="inputdiv">
+            <div class="input">
+            <label for="Color">Select your favorite color: </label>
+            <input id="Color" type="color">
+
+            </div>	
+            <div id="inputbutton">
+            <a href="#" onclick="ChangeColor()">Change Color</a>
+            </div>
+        </div>
+
+    <script>
+        function ChangeColor() {
+            document.bgColor = document.getElementById("Color").value;
+        }
+        </script>
+   
+
+</body>
+</html>

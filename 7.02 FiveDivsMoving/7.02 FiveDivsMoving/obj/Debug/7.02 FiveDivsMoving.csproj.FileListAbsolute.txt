@@ -1,0 +1,5 @@
+D:\Projects\JavaScript UI & DOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\bin\7.02 FiveDivsMoving.dll
+D:\Projects\JavaScript UI & DOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\bin\7.02 FiveDivsMoving.pdb
+D:\Projects\JavaScript UI & DOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\obj\Debug\7.02 FiveDivsMoving.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript UI & DOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\obj\Debug\7.02 FiveDivsMoving.dll
+D:\Projects\JavaScript UI & DOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\obj\Debug\7.02 FiveDivsMoving.pdb

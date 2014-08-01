@@ -1,0 +1,5 @@
+D:\Projects\JavaScript UI & DOM\1.02 GetAndPrintInput\1.02 GetAndPrintInput\bin\1.02 GetAndPrintInput.dll
+D:\Projects\JavaScript UI & DOM\1.02 GetAndPrintInput\1.02 GetAndPrintInput\bin\1.02 GetAndPrintInput.pdb
+D:\Projects\JavaScript UI & DOM\1.02 GetAndPrintInput\1.02 GetAndPrintInput\obj\Debug\1.02 GetAndPrintInput.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript UI & DOM\1.02 GetAndPrintInput\1.02 GetAndPrintInput\obj\Debug\1.02 GetAndPrintInput.dll
+D:\Projects\JavaScript UI & DOM\1.02 GetAndPrintInput\1.02 GetAndPrintInput\obj\Debug\1.02 GetAndPrintInput.pdb
