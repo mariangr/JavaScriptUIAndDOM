@@ -3,3 +3,9 @@ D:\Projects\JavaScript UI & DOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\bin\7.02
 D:\Projects\JavaScript UI & DOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\obj\Debug\7.02 FiveDivsMoving.csprojResolveAssemblyReference.cache
 D:\Projects\JavaScript UI & DOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\obj\Debug\7.02 FiveDivsMoving.dll
 D:\Projects\JavaScript UI & DOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\obj\Debug\7.02 FiveDivsMoving.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\bin\7.02 FiveDivsMoving.dll.config
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\bin\7.02 FiveDivsMoving.dll
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\bin\7.02 FiveDivsMoving.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\obj\Debug\7.02 FiveDivsMoving.csprojResolveAssemblyReference.cache
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\obj\Debug\7.02 FiveDivsMoving.dll
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.02 FiveDivsMoving\7.02 FiveDivsMoving\obj\Debug\7.02 FiveDivsMoving.pdb

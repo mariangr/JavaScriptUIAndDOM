@@ -34,8 +34,8 @@ function GenerateDivs() {
         newDiv.style.textAlign = 'center';
 
         newDiv.style.position = 'absolute';
-        newDiv.style.top = getRandomInt(0, 675) + 'px';
-        newDiv.style.left = getRandomInt(0, 1275) + 'px';
+        newDiv.style.top = getRandomInt(300, 800) + 'px';
+        newDiv.style.left = getRandomInt(400, 1200) + 'px';
 
         newDiv.style.borderRadius = getRandomInt(0, 50) + '%';
         newDiv.style.borderColor = getRandomColor();
@@ -55,15 +55,17 @@ var radius = 50;
 var maxAngle = false;
 
 
-function CreateAndMoveDivs(allDivs) {
+function MoveDivs(allDivs) {
     
     for (i = 1; i <= 5; i++) {
-        allDivs[i].style.left = Math.cos(angle + 2 * Math.PI / allDivs.length * i) / radius * 10000 + 'px';
-        allDivs[i].style.top = Math.sin(angle + 2 * Math.PI / allDivs.length * i) / radius * 10000 + 'px';
+        var currentDiv = allDivs[i];
+        currentDiv.style.left = Math.cos(angle + 2 * Math.PI / 5 * i) / radius * 10000 + 'px';
+        currentDiv.style.top = Math.sin(angle + 2 * Math.PI / 5 * i) / radius * 10000 + 'px';
     }
 
+    var allDivs = document.querySelectorAll('div');
     angle = angle + 0.1;
 
-    setTimeout(CreateAndMoveDivs(allDivs), 100);
+    //setTimeout(MoveDivs(allDivs), 1000);
 
 }
