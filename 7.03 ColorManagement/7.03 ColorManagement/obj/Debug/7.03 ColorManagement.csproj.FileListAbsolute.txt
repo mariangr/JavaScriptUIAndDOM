@@ -1,0 +1,5 @@
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.03 ColorManagement\7.03 ColorManagement\bin\7.03 ColorManagement.dll.config
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.03 ColorManagement\7.03 ColorManagement\bin\7.03 ColorManagement.dll
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.03 ColorManagement\7.03 ColorManagement\bin\7.03 ColorManagement.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.03 ColorManagement\7.03 ColorManagement\obj\Debug\7.03 ColorManagement.dll
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptUIAndDOM\7.03 ColorManagement\7.03 ColorManagement\obj\Debug\7.03 ColorManagement.pdb
