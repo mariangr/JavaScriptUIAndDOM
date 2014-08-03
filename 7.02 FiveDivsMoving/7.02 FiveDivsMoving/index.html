@@ -5,7 +5,6 @@
     <script src="script.js"></script>
 </head>
 <body>
-    <!--<input type="button" value="Rotate" onclick=MoveDivs(allDivs)>-->
     <div id="resultFromAppend">
 
         </div>
@@ -13,10 +12,10 @@
     <script>
         GenerateDivs();
         var allDivs = document.querySelectorAll('div');
-        //setInterval(alert("allDivs"), 1000);
-        //setInterval(MoveDivs(allDivs),1000);
+        MoveDivs(allDivs);
         </script>
 
-    <button onclick="setInterval(MoveDivs(allDivs), 1000);">Rotate</button>
+    <button onclick="setInterval(function() { MoveDivs(allDivs);}, 100);">Rotate</button>
+
 </body>
 </html>

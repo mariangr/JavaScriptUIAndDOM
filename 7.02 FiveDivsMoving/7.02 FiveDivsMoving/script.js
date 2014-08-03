@@ -55,12 +55,13 @@ var radius = 50;
 var maxAngle = false;
 
 
+
 function MoveDivs(allDivs) {
     
     for (i = 1; i <= 5; i++) {
         var currentDiv = allDivs[i];
-        currentDiv.style.left = Math.cos(angle + 2 * Math.PI / 5 * i) / radius * 10000 + 'px';
-        currentDiv.style.top = Math.sin(angle + 2 * Math.PI / 5 * i) / radius * 10000 + 'px';
+        currentDiv.style.left = 250 + Math.cos(angle + 2 * Math.PI / 5 * i) / radius * 10000 + 'px';
+        currentDiv.style.top = 250 + Math.sin(angle + 2 * Math.PI / 5 * i) / radius * 10000 + 'px';
     }
 
     var allDivs = document.querySelectorAll('div');
