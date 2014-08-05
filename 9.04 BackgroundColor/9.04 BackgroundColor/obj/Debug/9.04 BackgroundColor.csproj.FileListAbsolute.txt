@@ -1,0 +1,4 @@
+D:\Projects\JavaScript UI & DOM\9.04 BackgroundColor\9.04 BackgroundColor\bin\9.04 BackgroundColor.dll
+D:\Projects\JavaScript UI & DOM\9.04 BackgroundColor\9.04 BackgroundColor\bin\9.04 BackgroundColor.pdb
+D:\Projects\JavaScript UI & DOM\9.04 BackgroundColor\9.04 BackgroundColor\obj\Debug\9.04 BackgroundColor.dll
+D:\Projects\JavaScript UI & DOM\9.04 BackgroundColor\9.04 BackgroundColor\obj\Debug\9.04 BackgroundColor.pdb
