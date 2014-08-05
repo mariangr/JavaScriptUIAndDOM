@@ -1,0 +1,5 @@
+D:\Projects\JavaScript UI & DOM\8.01 ToDoList\8.01 ToDoList\bin\8.01 ToDoList.dll
+D:\Projects\JavaScript UI & DOM\8.01 ToDoList\8.01 ToDoList\bin\8.01 ToDoList.pdb
+D:\Projects\JavaScript UI & DOM\8.01 ToDoList\8.01 ToDoList\obj\Debug\8.01 ToDoList.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript UI & DOM\8.01 ToDoList\8.01 ToDoList\obj\Debug\8.01 ToDoList.dll
+D:\Projects\JavaScript UI & DOM\8.01 ToDoList\8.01 ToDoList\obj\Debug\8.01 ToDoList.pdb

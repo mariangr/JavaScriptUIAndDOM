@@ -1,0 +1,5 @@
+D:\Projects\JavaScript UI & DOM\9.01 SlideShow\9.01 SlideShow\bin\9.01 SlideShow.dll
+D:\Projects\JavaScript UI & DOM\9.01 SlideShow\9.01 SlideShow\bin\9.01 SlideShow.pdb
+D:\Projects\JavaScript UI & DOM\9.01 SlideShow\9.01 SlideShow\obj\Debug\9.01 SlideShow.dll
+D:\Projects\JavaScript UI & DOM\9.01 SlideShow\9.01 SlideShow\obj\Debug\9.01 SlideShow.pdb
+D:\Projects\JavaScript UI & DOM\9.01 SlideShow\9.01 SlideShow\obj\Debug\9.01 SlideShow.csprojResolveAssemblyReference.cache

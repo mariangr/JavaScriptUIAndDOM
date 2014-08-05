@@ -1,0 +1,4 @@
+D:\Projects\JavaScript UI & DOM\9.02 InsertingElements\9.02 InsertingElements\bin\9.02 InsertingElements.dll
+D:\Projects\JavaScript UI & DOM\9.02 InsertingElements\9.02 InsertingElements\bin\9.02 InsertingElements.pdb
+D:\Projects\JavaScript UI & DOM\9.02 InsertingElements\9.02 InsertingElements\obj\Debug\9.02 InsertingElements.dll
+D:\Projects\JavaScript UI & DOM\9.02 InsertingElements\9.02 InsertingElements\obj\Debug\9.02 InsertingElements.pdb
