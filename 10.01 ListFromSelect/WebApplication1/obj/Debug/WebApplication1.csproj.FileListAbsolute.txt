@@ -3,3 +3,8 @@ D:\Projects\JavaScript UI & DOM\WebApplication1\WebApplication1\bin\WebApplicati
 D:\Projects\JavaScript UI & DOM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 D:\Projects\JavaScript UI & DOM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\Projects\JavaScript UI & DOM\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Projects\JavaScript UI & DOM\10.01 ListFromSelect\WebApplication1\bin\WebApplication1.dll
+D:\Projects\JavaScript UI & DOM\10.01 ListFromSelect\WebApplication1\bin\WebApplication1.pdb
+D:\Projects\JavaScript UI & DOM\10.01 ListFromSelect\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript UI & DOM\10.01 ListFromSelect\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Projects\JavaScript UI & DOM\10.01 ListFromSelect\WebApplication1\obj\Debug\WebApplication1.pdb
