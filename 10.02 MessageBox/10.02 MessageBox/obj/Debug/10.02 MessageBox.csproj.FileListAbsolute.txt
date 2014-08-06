@@ -1,0 +1,5 @@
+D:\Projects\JavaScript UI & DOM\10.02 MessageBox\10.02 MessageBox\bin\10.02 MessageBox.dll
+D:\Projects\JavaScript UI & DOM\10.02 MessageBox\10.02 MessageBox\bin\10.02 MessageBox.pdb
+D:\Projects\JavaScript UI & DOM\10.02 MessageBox\10.02 MessageBox\obj\Debug\10.02 MessageBox.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript UI & DOM\10.02 MessageBox\10.02 MessageBox\obj\Debug\10.02 MessageBox.dll
+D:\Projects\JavaScript UI & DOM\10.02 MessageBox\10.02 MessageBox\obj\Debug\10.02 MessageBox.pdb
